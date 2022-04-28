@@ -13,19 +13,13 @@ Suspend
 Return
 
 {
-	:oc?:@g::xiaozhennan1995@gmail.com
+	:oc?:@163::zsqmia@163.com
 }
 {
-	:oc?:@126::xiao_zhennan@126.com
+	:oc?:qq::1074258621
 }
 {
-	:oc?:@ww1::WeiWan
-}
-{
-	:oc?:@ww2::WeiWan5675
-}
-{
-	:oc?:@ww3::未完
+	:oc?:192::192.168.128.130
 }
 {
 	:*:!date::

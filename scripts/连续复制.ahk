@@ -5,7 +5,7 @@ Process,priority, , high
 #NoEnv
 
 ;==================================================
-;** 连续复制功能 ctrl+shift+c 开启或关闭, 使用shift+c选择复制
+;** 连续复制功能 ctrl+shift+c 开启或关闭, 使用alt+c选择复制
 ;==================================================
 
 flag_copy := 0	;这个模式变量不可少，一定得有
@@ -22,7 +22,7 @@ if flag_copy = 0
 return
  
 
-+c::		
+!c::		
 if flag_copy = 0
 {
 	Send,^c 			;;用Alt+C替换系统的复制键Ctrl+C
